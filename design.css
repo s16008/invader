@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: dimgray;
+}
+
+div#score_block {
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin: 20px auto;
+    background-color: white;
+    line-height: 1.5em;
+    vertical-align: middle;
+    font-size: 18pt;
+}
+
+
+canvas{
+    background-color: black;
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin: 20px auto;
+}
